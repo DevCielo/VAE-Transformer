@@ -1,6 +1,6 @@
 # Stock Price Forecasting and Anomaly Detection with VAE and Transformer
 
-This project implements a pipeline for **stock price anomaly detection** using a Variational Autoencoder (VAE) and **future price forecasting** using an Enhanced Transformer model. Additionally, a simple **trading strategy** is built based on the model's predictions and detected anomalies.
+This project implements a pipeline for **stock price anomaly detection** using a Variational Autoencoder (VAE) and **future price forecasting** using an Enhanced Transformer model inspired by the paper "Attention is All You Need". Additionally, a simple **trading strategy** is built based on the model's predictions and detected anomalies.
 
 ---
 
